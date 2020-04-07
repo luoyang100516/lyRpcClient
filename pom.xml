@@ -7,6 +7,12 @@
     <groupId>com.ly</groupId>
     <artifactId>lyRpcClient</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.ly</groupId>
+            <artifactId>ly-rpc-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
